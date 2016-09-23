@@ -1,0 +1,7 @@
+1.git 添加忽略文件
+
+touch	.gitignore
+
+#git ignore files list
+.svn/*
+.idea/*
