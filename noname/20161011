@@ -1,0 +1,22 @@
+2016/10/11
+
+1. 删除接口替换 +
+	http://mtapi.house365.com/?method=zhizu.rentRefreshHouse&city=nj&id=53745801&telno=&fromzhizu=2&ip=&sell_status=2
+
+2.状态设置 状态尚未返回----
+	直租后台状态
+	1	激活
+	0	队列
+	-4	虚假
+	-2	中介驳回
+	2	失效
+	3	成交
+	4	删除
+
+3.400电话展示 +
+4.手机号展示 隐藏中间 137-****-1111
+5.不存在的小区展示
+6.房源图片最多20张 +
+7.房源刷新规则?   +
+	http://user.house365.com/esf_center_api/get_refresh_num?tbl=rent&houseid=53733574,50341612&passport_uid=1498117
+

@@ -1,0 +1,12 @@
+1.封面图图标
+2.几室几厅
+
+
+租赁类型
+板块
+付款方式
+房屋设备 少数据比如可上网
+朝向
+房产证 certificate_images
+
+error_log(date('Y-m-d H:i:s')."\t xxx \n", 3, "./my-errors.log");
